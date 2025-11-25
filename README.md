@@ -5,7 +5,7 @@ Se ha elaborado gracias a la colaboración del Laboratorio de Sistemas de Potenc
 Agradecemos a los Doctores M. Ayala y O. González por su guía y apoyo durante todo el proceso.
 
 
-La carpeta de modelos contiene los todos los datos necesarios para ejecutarlos en MATLAB, versión 2024.
+La carpeta de modelos contiene todos los datos necesarios para ejecutarlos en MATLAB, versión 2024.
 
 
 Citar a los autores adecuadamente para la utilización de estos modelos. (A. Aguilera y D. Vera).
